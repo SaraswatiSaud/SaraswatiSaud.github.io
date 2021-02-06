@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -21,7 +21,7 @@ sidebar:
     gitlab:
     bitbucket:
     # twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 8179306/saraswati-saud # e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -55,6 +55,23 @@ experiences:
           - Participated in daily meetings in coming up with new approaches for enhancing the performance of a      software.
           - Ensure software security by developing programs to actively monitor the sharing of private information.
           - Analyse and proper testing of an application before the demo or launch.
+    - role: Software Developer
+      time: 12/2017 - 07/2019
+      company: Codyssey Web Nepal Pvt. Ltd., Kathmandu, Nepal
+      details: |
+          - Collaborated with team members to enhance the best practices and meet the client’s requirements for the software.
+          - Implemented software and create updates regularly to address client’s requirements.
+          - Maintain effective communication with team members, company staffs and clients.
+          - Worked on writing specs – unit and feature specs and maintaining effective code to improve software performance.
+          - Mentored and managed a team of junior developers.
+    - role: Software Developer Intern
+      time: 05/2017 - 08/2017
+      company: Young Mind’s Creation, Kathmandu, Nepal
+      details: |
+          - Involved in the development of web applications.
+          -	Frequent testing of an application to find errors and software bugs.
+          - Developed a better understanding of Agile/Scrum Design Patterns, TDD and the Software Development Life Cycle.
+          - Monitored the software for continuous improvements.
 skills:
     title: Skills &amp; Proficiency
 
